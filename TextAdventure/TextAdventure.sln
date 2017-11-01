@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAdventure", "TextAdventure\TextAdventure.csproj", "{52927635-7E90-45A1-AC10-602E8E422295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitTestAdventure", "unitTestAdventure\unitTestAdventure.csproj", "{B38948EC-5363-4800-AFD7-516784F0245A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52927635-7E90-45A1-AC10-602E8E422295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52927635-7E90-45A1-AC10-602E8E422295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52927635-7E90-45A1-AC10-602E8E422295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52927635-7E90-45A1-AC10-602E8E422295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38948EC-5363-4800-AFD7-516784F0245A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38948EC-5363-4800-AFD7-516784F0245A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38948EC-5363-4800-AFD7-516784F0245A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38948EC-5363-4800-AFD7-516784F0245A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A3CBCC-DE63-4696-8094-4B3703180A87}
+	EndGlobalSection
+EndGlobal

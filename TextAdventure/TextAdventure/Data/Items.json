@@ -1,0 +1,170 @@
+﻿[
+    {
+        "name": "broom",
+        "displayName": "Sturdy Straw Broom",
+        "description": "It's a standard broom. Very good for sweeping. There are dust bunnies wrapped up in its bristles.",
+        "initialText": " A {broom} leans against a wall.",
+        "initialLocation": "Charming Cottage",
+        "target": null,
+        "specialActions": {
+            "sweep": "You pick up the broom and start sweeping. This broom sweeps like a champ!",
+            "clean": "You clean the area around you using the broom. How thoughtful!",
+            "dance": "You grab the broom and dance a little waltz."
+        } 
+    },
+    {
+        "name": "carpet",
+        "displayName": "Magic Carpet",
+        "description": "You see a beautiful wool carpet, with an intricate design woven in a multitude of bright colors. It twitches and wiggles one corner at you, as if it were waving.",
+        "initialText": " One colorful {carpet} appears to be waving at you.",
+        "initialLocation": "Agrahar Market",
+        "target": null,
+        "specialActions": {
+            "sit": "You sit on the carpet.",
+            "stand": "You stand on the carpet.",
+            "roll": "The carpet struggles a bit as you roll it up, but once it's rolled up, it seems fine.",
+            "fold": "The carpet struggles against you folding it up. I don't think it likes that..."
+        } 
+    },
+    {
+        "name": "carrot",
+        "displayName": "Carrot",
+        "description": "The carrot is...a carrot. It's lightly frosted with ice. Other than that, there's not really anything special about it. Looks tasty, though.",
+        "initialText": " A big orange {carrot} is laying on the ground.",
+        "initialLocation": "Ice Castle",
+        "target": null,
+        "specialActions": {
+            "eat": "Your vision improves ... marginally.",
+            "smell": "I love the smell of carrots in the morning."
+        } 
+    },
+    {
+        "name": "gloves",
+        "displayName": "Opera Gloves",
+        "description": "The gloves are small, delicate and slightly sheer. They sparkle in the sunlight, as if glittering crystals are woven into the fabric.",
+        "initialText": " You see a pair of opera {gloves} folded atop a chicken coop.",
+        "initialLocation": "Charming Cottage",
+        "target": "snow queen",
+        "specialActions": {
+            "wear": "Hmm... they don't quite fit... They're very small.",
+            "put": "Alas, the gloves don't fit you. They're too small.",
+            "try": "Oh! The gloves are too tiny for you, they must belong to someone else."
+        } 
+    },
+    {
+        "name": "gumbo",
+        "displayName": "Bowl of Gumbo",
+        "description": "The bowl of gumbo smells amazing! It's full of all of the things that make gumbo delicious.",
+        "initialText": " Cooking over a fire is a bubbling pot of aromatic {gumbo}, with a pile of empty bowls nearby.",
+        "initialLocation": "Azure Bayou",
+        "target": "snowman",
+        "specialActions": {
+            "smell": "Wow! The gumbo smells delicious!",
+            "taste": "You taste the gumbo. It's good, but too hot to eat!",
+            "eat": "The gumbo is too hot to eat!",
+            "sip": "The gumbo is really hot, but you take a careful sip. Mmm...gumbo.",
+            "touch": "Careful you don't burn yourself! The gumbo is very hot!"
+        } 
+    },
+    {
+        "name": "icicle",
+        "displayName": "Icicle",
+        "description": "Not your average icicle, this one looks intricately carved or sculpted. It also doesn't seem to be melting at all...",
+        "initialText": " To your right, a delicate {icicle} rises from the ground.",
+        "initialLocation": "Ice Castle",
+        "target": null,
+        "specialActions": {
+            "lick": "You lick the icicle, and it sticks to your tongue! Luckily, it doesn't stay that way for long. Whew!"
+        } 
+    },
+    {
+        "name": "key",
+        "displayName": "Heavy Iron Key",
+        "description": "You see a large iron key, almost as long as your hand! The top of the key looks like it is made up of tiny, leafy vines made of metal. This key must fit a really big lock!",
+        "initialText": "Somewhere, you spot a large iron {key}",
+        "initialLocation": null,
+        "target": "gate",
+        "specialActions": {
+
+        } 
+    },
+    {
+        "name": "lamp",
+        "displayName": "Brass Lamp",
+        "description": "You see a large brass oil lamp with a long spout on one end, and a big, looping handle on the other. It seems to glow slightly, even though it's a bit tarnished. You'd swear that this is a magic lamp! (Although you're not quite sure how you know that.) There is a low, murmuring noise coming from the lamp. As if someone was talking a long way off.",
+        "initialText": " A brass oil {lamp} sits on an ancient tree stump.",
+        "initialLocation": "Azure Bayou",
+        "target": "aladdin",
+        "specialActions": {
+            "rub": "Hm...nothing happens when you rub the lamp.",
+            "polish": "You polish the lamp with the edge of your shirt.",
+            "shine": "You shine the lamp. So shiny!",
+            "clean": "The lamp is tarnished a bit, but it's not really dirty."
+        } 
+    },
+    {
+        "name": "passport",
+        "displayName": "Passport",
+        "description": "The passport has a very nice picture of you drawn in the front, along with your name in fancy gold letters. It has space for four visa stamps inside. You leaf through the passport and notice that no pages are stamped.",
+        "initialText": "The {passport} is in your pocket.",
+        "initialLocation": "Start",
+        "target": "rosie",
+        "specialActions": {
+            "read": "The passport has a very nice picture of you drawn in the front, along with your name in fancy gold letters."
+        } 
+    },
+    {
+        "name": "ribbon",
+        "displayName": "Pink Satin Ribbon",
+        "description": "The bright pink ribbon is long enough to tie someone's hair back.",
+        "initialText": " On a nearby tree branch hangs a pink satin {ribbon}.",
+        "initialLocation": "Charming Cottage",
+        "target": "rosie",
+        "specialActions": {
+            "wear": "You try to tie your hair back with the ribbon, but your tying skills aren't what they used to be.",
+            "tie": "You tie the ribbon in a pretty bow around your wrist.",
+            "cut": "You don't have anything to cut the ribbon with."
+        } 
+    },
+    {
+        "name": "slipper",
+        "displayName": "Glass Slipper",
+        "description": "The glass slipper is the kind of special footwear that could make royal dreams come true, for the right person. There's no way it would fit on your foot, alas.",
+        "initialText": " A {slipper} shines brilliantly and appears to be made of glass.",
+        "initialLocation": "Agrahar Market",
+        "target": "cinderella",
+        "specialActions": {
+            "polish": "You polish the slipper with a corner of your shirt. Now it reflects your lovely face!",
+            "shine": "You shine the glass slipper. It's so shiny now!",
+            "clean": "The glass slipper isn't dirty. You don't need to clean it.",
+            "wear": "Alas, the glass slipper doesn't fit. It wasn't made for you.",
+            "try": "Oh! Your feet are too big, the slipper must belong to someone else.",
+            "break": "Why would you want to break the slipper? It's so pretty! I bet it means a lot to somebody..."
+        }
+    },
+    {
+        "name": "tarot",
+        "displayName": "Ornate Tarot Card",
+        "description": "The ornate tarot card is about twice the size of the playing cards you're used to. The back is a beautiful swirling floral design, and the front shows a picture of two fancy golden cups.",
+        "initialText": " To your left, a {tarot} card is stuck to the wall.",
+        "initialLocation": "Ice Castle",
+        "target": "crone",
+        "specialActions": {
+            "read": "It's a tarot card with a picture of two fancy golden cups on it. You're not sure what it means."
+        } 
+    },
+    {
+        "name": "trumpet",
+        "displayName": "Shiny Brass Trumpet",
+        "description": "Shiny? Check. Brass? Check. Trumpet? Very trumpet-y. Yep, it is definitely a trumpet and not a cornet!",
+        "initialText": " A shiny brass {trumpet} lies in a corner.",
+        "initialLocation": "Azure Bayou",
+        "target": "jack",
+        "specialActions": {
+            "play": "You play a few notes on the trumpet. Yep. It's a trumpet.",
+            "blow": "You blow into the trumpet's mouthpiece. It's loud!",
+            "clean": "The trumpet doesn't really need to be cleaned.",
+            "polish": "You polish the trumpet with a corner of your shirt. So shiny!"
+        } 
+    }
+]

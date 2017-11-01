@@ -1,0 +1,13 @@
+﻿[
+    {
+    "name": "Current Player",
+    "commandCount": "0",
+    "currentLocation": "Start",
+    "inventory": {},
+    "isTraveling": true,
+    "isPlaying": true,
+    "moveCount": "0",
+    "passportStamps": "0",
+    "wantsMusic": true
+  }
+]

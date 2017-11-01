@@ -1,0 +1,234 @@
+﻿[
+    {
+        "name": "aladdin",
+        "location": "Agrahar Market",
+        "descriptionBefore": "{Aladdin} is searching through the earthenware desperately looking for something.",
+        "descriptionAfter": "{Aladdin} is nearby smiling thankfully at his lamp.",
+        "lookTextBefore": {
+            "Aladdin is a young man with coppery brown skin, thick, wavy black hair, and shining black eyes. He is wearing a ragged pants of a color somewhere between grey and brown, and a brightly-colored (if threadbare) vest over an old shirt that you think was originally dyed a bright saffron color. A long time ago.": "cyan",
+            "His brow is furrowed in concern as he searches among the jumbled wares in this corner of the bazaar": "cyan"
+        },
+        "lookTextAfter": {
+            "Aladdin is a young man with coppery brown skin, thick, wavy black hair, and shining black eyes. He is wearing ragged pants of a color somewhere between grey and brown, and a brightly-colored (if threadbare) vest over an old shirt that you think was originally dyed a bright saffron color. ...A long time ago.": "cyan",
+            "He is perched on a low wall next to the booth selling carpets, eating a sandwich that looks delicious! The brass lamp is sitting on the wall next to him. He gives you a brilliant smile and a wave when you look at him.": "cyan"
+        },
+        "talkBefore": {
+            "'My friend the Jinn is gonna kill me if I don't find his lamp! I promised that I'd take him to the best food cart in the city! Have you by chance seen a lamp anywhere?'": "green"
+        },
+        "talkAfter": {
+            "'Thanks for finding the lamp for me!'": "green"
+        },
+        "hasHeroItem": false,
+        "gainHeroItemText": {
+            "'You found my lamp! Thank you so much!'": "green",
+            "Aladdin snaps his fingers and your passport flies out of your pocket, flips to the next available page and a golden, glowing visa stamp appears.": "cyan"
+        }
+    },
+    {
+        "name": "cinderella",
+        "location": "Charming Cottage",
+        "descriptionBefore": "A woman whose face and clothes are full of soot wanders in the yard. She's stopping here and there like she is looking for something. Is this...{Cinderella}?",
+        "descriptionAfter": "{Cinderella} is sitting on the front porch, polishing her newly returned glass slipper.",
+        "lookTextBefore": {
+            "Cinderella has short hair that curls fiercely, and frames her face in soft waves. She is wearing a long, plain dress and an apron. Her face, clothes, and hair are so full of soot that you can't tell what color they are. She is wandering in the yard of the cottage, stopping here and there and peering under things. She seems to be looking for something.": "cyan"
+        },
+        "lookTextAfter": {
+            "Cinderella has short hair that curls fiercely, and frames her face in soft waves. She is wearing a long, plain dress and an apron. Her face, clothes, and hair are so full of soot that you can't tell what color they are. She is sitting on a stool on the front porch of the cottage, polishing the glass slipper with a soft cloth. She smiles at you when you look at her, then goes back to her polishing.": "cyan"
+        },
+        "talkBefore": {
+            "'Now where did that glass slipper go? I can't find it anywhere! Could you help me find it?'": "green"
+        },
+        "talkAfter": {
+            "'Thank you for finding my glass slipper!'": "green"
+        },
+        "hasHeroItem": false,
+
+        "gainHeroItemText": {
+            "'You found my {slipper}! Thank you so much!'": "green",
+            "Cinderella puts on the slipper and the air explodes with birdsong. A mouse wearing a vest crawls up your leg, extracts your passport, and stamps the next available page. Thank you, fancy mouse!": "cyan"
+        }
+    },
+    {
+        "name": "crone",
+        "location": "Azure Bayou",
+        "descriptionBefore": "A tiny {crone} holds a deck of ornate tarot cards.",
+        "descriptionAfter": "The tiny {crone} is shuffling her tarot cards and chuckling to herself. It's...a bit creepy, really.",
+        "lookTextBefore": {
+            "The crone is a tiny woman whose deeply tanned skin has countless wrinkles. She is wearing a beautiful robe covered with swirling embroidery. You suspect that her bright green eyes would normally twinkle with cheer, but right now she's carefully counting through her deck of tarot cards, and looks worried.": "cyan"
+        },
+        "lookTextAfter": {
+            "The crone is a tiny woman whose deeply tanned skin has countless wrinkles. She is wearing a beautiful robe covered with swirling embroidery. Her bright green eyes twinkle merrily as she flips through her deck of tarot cards one by one. When she sees you looking at her, she gives you a cheerful wink.": "cyan"
+        },
+        "talkBefore": {
+            "'I am missing one of my tarot cards. If you come across it, could you bring it back to me?'": "green"
+        },
+        "talkAfter": {
+            "'Thanks for finding my tarot card!'": "green"
+        },
+        "hasHeroItem": false,
+        "gainHeroItemText": {
+            "'You found my missing Two of Cups tarot card! Now the deck is complete! Thank you so much!'": "green",
+            "The crone spreads out the cards in front of you and starts to read them. She looks up at you with a gap-toothed grin.": "cyan",
+            "'The cards say that you have a new stamp added to your passport.'": "green",
+            "You look at your passport, and sure enough, a new visa stamp is swirled on what was an empty page.": "cyan"
+        }
+    },
+    {
+        "name": "gate",
+        "location": "Forest3",
+        "descriptionBefore": "Between the trees to the north is a huge wooden {gate}. The gate is taller than you are, and there is a large iron keyhole in the middle of it. You can see a giant beanstalk rising above the trees on the other side of the gate.",
+        "descriptionAfter": "A huge wooden {gate} stands open between the trees to the north.",
+        "lookTextBefore": {
+            "The gate between the trees is taller than you are, and it looks like it magically grew between the trees! There is a large iron keyhole in the middle of the gate. It will take a really big key to unlock this gate!": "cyan"
+        },
+        "lookTextAfter": {
+            "The gate between the trees is taller than you are, and it looks like it magically grew between the trees! The gate is open, and you can see the bottom of the giant beanstalk on the other side.": "cyan"
+        },
+        "talkBefore": {
+            "You talk to the gate. It doesn't respond. It's just a gate.": "cyan"
+        },
+        "talkAfter": {
+            "You talk to the gate. It doesn't respond. It's just a gate.": "cyan"
+        },
+        "hasHeroItem": false,
+        "gainHeroItemText": {
+            "You pull out the iron key and put it into the keyhole. It's really hard to turn! There's a loud squeaking sound, and you finally get it to move. Unfortunately, the key seems to be stuck in the lock now. Oh, well.": "cyan",
+            "You push as hard as you can against the gate, and it swings open. The way to the north is now clear!": "cyan"
+        }
+    },
+    {
+        "name": "jack",
+        "location": "Forest13",
+        "descriptionBefore": "{Jack} is sitting on a tree stump, staring at the ground. He is a boy wearing a bright blue shirt and a sad face. Jack looks at you and smiles, but then he sighs and looks back down at the ground.",
+        "descriptionAfter": "{Jack} is sitting on a tree stump here, polishing his trumpet.",
+        "lookTextBefore": {
+            "Jack looks very sad. His bright blue shirt looks like it might be part of some kind of uniform. He picks up a stick and draws a little picture of a trumpet in the dirt, then drops the stick and scuffs up the picture.": "cyan"
+        },
+        "lookTextAfter": {
+            "Jack is a boy wearing a bright blue shirt and a happy smile. He waves when he sees you looking at him, and goes back to practicing on his trumpet.": "cyan"
+        },
+        "talkBefore": {
+            "'Hello there. I'm Jack.'": "green",
+            "'I used to play the trumpet at the castle, but I traded away my trumpet for some magic beans. They grew into a giant beanstalk, but I don't want to climb up it because I'm afraid of heights! If I could find my trumpet, maybe I could get my old job back.'": "green"
+        },
+        "talkAfter": {
+            "Thank you so much for finding my trumpet! I hope the key is useful for you!": "cyan"
+        },
+        "hasHeroItem": false,
+        "gainHeroItemText": {
+            "\n\nYou give Jack the trumpet. His sad face disappears and he gives you a brilliant smile.": "cyan",
+            "'You found my trumpet! Thank you! Now I can go back to the castle and ask for my old job back. After I practice for a while.'": "green",
+            "Jack reaches into his pocket, and pulls out a large iron {key}.": "cyan",
+            "'Here, you can have this. I used it to lock the gate by the beanstalk, because I didn't want to think about climbing up that high. I bet you're braver than I am!'": "green",
+            "Jack hands you the key, and then starts practicing on his trumpet.": "cyan",
+            "An iron key has been added to your dictionary!": "yellow"
+        }
+    },
+    {
+        "name": "monkey",
+        "location": "Agrahar Market",
+        "descriptionBefore": " A cute little {monkey} tugs at your hand before scampering up the side of a booth.",
+        "descriptionAfter": null,
+        "lookTextBefore": {
+            "What a cute little monkey! Imagine the cutest monkey you've ever seen. This one is cuter!": "cyan"
+        },
+        "lookTextAfter": null,
+        "talkBefore": {
+            "You talk to the monkey. It makes monkey noises back at you. You have a lovely conversation about hats.": "cyan"
+        },
+        "talkAfter": null,
+        "hasHeroItem": false,
+        "gainHeroItemText": null
+    },
+    {
+        "name": "puss in boots",
+        "location": null,
+        "descriptionBefore": null,
+        "descriptionAfter": "{Puss in Boots} is here, curled up in the bright sunshine. He is still wearing his bright red boots.",
+        "lookTextBefore": null,
+        "lookTextAfter": {
+            "Puss in Boots is here is a large cat whose black and white fur makes him look like he's wearing a tuxedo. He is wearing bright red leather boots. His big floppy hat is lying next to him on the grass. It has a brand new feather waving from the brim. He looks like he might be asleep, but then you notice that one of his yellow eyes is open and watching you.": "cyan"
+        },
+        "talkBefore": null,
+        "talkAfter": {
+            "Thank you again for the delicious gumbo, my friend! It's so nice to be warm again!": "green"
+        },
+        "hasHeroItem": true,
+        "gainHeroItemText": null
+    },
+    {
+        "name": "rosie",
+        "location": "Cloud Dock",
+        "descriptionBefore": "You see a girl here, wearing green work overalls with a patch that says 'Rosie'. She is standing next to the boat with a wrench in her hand and her hands on her hips, looking at the boat's engine. There are gears and screws on the dock next to her. Her long, curly black hair is blowing around her in the wind.",
+        "descriptionAfter": "Rosie is lying on the dock, next to the boat's engine, putting the last few parts pack together.",
+        "lookTextBefore": {
+            "Rosie is wearing green work overalls with a patch that says 'Rosie'. The overalls have grease stains on the knees. Rosie is standing next to the boat with a wrench in her hand and her hands on her hips, looking at the boat's engine. There are gears and screws on the dock next to her. Her long, curly black hair is blowing around her in the wind.": "cyan"
+        },
+        "lookTextAfter": {
+            "Rosie is lying on the dock, next to the boat's engine, putting the last few parts back together. The ribbon you gave her is braided through her long hair, keeping it out of her face while she works.": "cyan"
+        },
+        "talkBefore": {
+            "'Hello! I'm Rosie. Have you come to ride the balloon boat? It's not going anywhere until I can fix the engine.'": "green",
+            "'I want to fix it, but my last hair ribbon blew away. Now every time I try to work on the engine, the wind blows my hair in my face and I can't see what I'm doing!'": "green"
+        },
+        "talkAfter": {
+            "'I've been able to get so much done since you gave me that ribbon! Once you've got all your visa stamps, the boat can fly you back home!'": "green"
+        },
+        "hasHeroItem": false,
+        "gainHeroItemText": {
+            "\n\nYou hand Rosie the pink ribbon and she takes it with a smile.": "cyan",
+            "'My hair ribbon! Where on earth did you find it? I thought it was lost forever!'": "green",
+            "With quick fingers, Rosie braids her hair, tying the ribbon around it to keep it in place.": "cyan",
+            "'Now I can finish fixing the engine on my balloon boat! Once I'm done, it can fly you anywhere. Just let me know when you have all your visas stamped in your passport.'": "green"
+        }
+    },
+    {
+        "name": "snow queen",
+        "location": "Ice Castle",
+        "descriptionBefore": "The {Snow Queen} bats her eyes at you and smiles, but looks a bit lonely.",
+        "descriptionAfter": "The {Snow Queen} has pulled out her cell phone, and is texting someone while wearing her new gloves.",
+        "lookTextBefore": {
+            "The Snow Queen glitters like...well, like ice! She has pale, pale skin just a shade darker than her flowing white hair. She is wearing a fancy dress of palest blue, covered with glassy stones that shimmer in the light from the chandelier, and throw tiny rainbows around the hall. She smiles a friendly smile at you, but she looks a bit lonely.": "cyan"
+        },
+        "lookTextAfter": {
+            "The Snow Queen glitters like ice! She has pale, pale skin just a shade darker than her flowing white hair. She is wearing a fancy dress of palest blue, covered with tiny stones that shimmer in the light from the chandelier, and throw tiny rainbows around the hall. The gloves you gave her match her dress perfectly! She gives you a distracted, but friendly smile as she types rapidly on her cell phone.": "cyan"
+        },
+        "talkBefore": {
+            "'Welcome to my castle! I would come take your hand, but alas, I'm afraid I'd freeze you.'": "green"
+        },
+        "talkAfter": {
+            "'Thank you for the gloves! I am so grateful. My sister says 'thank you' as well. I hadn't been able to text her in weeks!'": "cyan"
+        },
+        "hasHeroItem": false,
+        "gainHeroItemText": {
+            "\n\n'What's this? You're giving me new gloves? Oh, I see! To cover my hands so I can touch things without freezing them. What a generous gift! I owe you a great debt, adventurer. Now I can text my sister without freezing my phone solid!'": "green",
+            "The Snow Queen wraps her gloved arms around you. The warmth from the hug is a surprising relief from the surrounding ice. You take out your passport and the Snow Queen creates a beautiful icy stamp within.": "cyan"
+        }
+    },
+    {
+        "name": "snowman",
+        "location": "Ice Castle",
+        "descriptionBefore": " A small {snowman} leans against one wall.",
+        "descriptionAfter": null,
+        "lookTextBefore": {
+            "The snowman is about three feet tall. It looks like someone piled up a lot of snow into a kind of person-shaped shape.": "cyan"
+        },
+        "lookTextAfter": null,
+        "talkBefore": {
+            "You talk to the snowman. It doesn't say much, but then you hear a kind of muffled sound:": "cyan",
+            "Mm mmmmm mm mmmm mmmmmmm mmmm!": "green",
+            "Is there someone else...inside the snowman?": "cyan"
+        },
+        "talkAfter": null,
+        "hasHeroItem": false,
+        "gainHeroItemText": {
+            "The snowman reaches out snowy arms and takes the bowl of gumbo from you. Using a shiny silver spoon, the snowman begins to eat the gumbo. As the snowman eats, it begins to melt! There's someone else under all that snow!": "cyan",
+            "The last of the snow melts away to reveal a black and white cat with bright red boots on his hind legs. It's Puss in Boots!": "cyan",
+            "'At last, I've thawed out!": "green",
+            "Thank you, my friend! I stayed out too late one night last winter and froze solid. Some of the Snow Queen's subjects brought me here because they thought I was one of them!'": "green",
+            "Puss in Boots takes off his boots one by one, pours the melted snow out of them, and puts them back on. He pulls a floppy hat out of the snow next to him, and plops it on his head. The feather on top is very soggy.": "cyan",
+            "'Now it's time for me to be off!'": "green",
+            "With a bow to the Snow Queen, who laughs and waves at him, Puss in Boots walks out of the Ice Castle and disappears into the forest beyond.": "cyan"
+        }
+    }
+]
