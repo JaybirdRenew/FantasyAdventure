@@ -1,6 +1,12 @@
 # Fantasy Game
+A fantasy text-based adventure game. The Jaybird Renew Team refactored and expanded the original version. The new version has additional features: an expanded game world (the beanstalk and cloud world), additional NPC's (Rosie, Puss 'n' Boots, Jack), new puzzles to solve (giving the gumbo to the snowman, giving Rosie the ribbon, giving Jack the trumpet). The new version also has refectored code that removed circular references, 40% extra code coverage with unit tests, and wav files replaced with midis for an application compact enough for GitHub. 
 
-### Version 2 by:
+### Technologies
+- C#
+- Visual Studio
+- Visual Studio Team Services
+
+### Version 2 by The Jaybird Renew Team:
 Sara Jade:      https://www.linkedin.com/in/sara-jade/  
 Erica Winberry: https://www.linkedin.com/in/ericawinberry/
 
