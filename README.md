@@ -11,9 +11,9 @@ Drew Biehle:    https://www.linkedin.com/in/drew-biehle-844a2b15/
 La Januari:     https://www.linkedin.com/in/%E0%BD%A3januari/  
 
 ### Credits:
-Title font created using JavE's FIGlet font export assistant.
-Have a look at: http://www.jave.de
-
-`WordWrap` method adapted from https://rianjs.net/2016/03/line-wrapping-at-word-boundaries-for-console-applications-in-csharp
-`ConsoleRedirector` class created by [Dan Muldrew](https://www.linkedin.com/in/daniel-muldrew-a328894/)
-Rainbow and Sun favicon created by [maciej326](https://pixabay.com/en/users/maciej326-1771256/) and downloaded from [pixabay.com](https://pixabay.com/en/screen-a-fairy-tale-the-sun-1903947/) under CC0 license.
+Title font created using JavE's FIGlet font export assistant. Have a look at: http://www.jave.de  
+`WordWrap` method adapted from https://rianjs.net/2016/03/line-wrapping-at-word-boundaries-for-console-applications-in-csharp   
+`ConsoleRedirector` class created by [Dan Muldrew](https://www.linkedin.com/in/daniel-muldrew-a328894/)   
+Rainbow and Sun favicon created by [maciej326](https://pixabay.com/en/users/maciej326-1771256/) and downloaded from [pixabay.com](https://pixabay.com/en/screen-a-fairy-tale-the-sun-1903947/) under CC0 license.   
+MidiOutCaps.cs code from http://www.codeguru.com/columns/dotnet/making-music-with-midi-and-c.htm, Author: Peter Shaw, Date: June 17th, 2015, downloaded 10/25/17  
+Midi sequence source(s): http://www.kuhmann.com/Yamaha.htm, Tchaikovsky, Pyotr I., last updated 11-May-2016, downloaded 10/25/17, Author: author/sequencer/performer and/or Robert C. Kuhmann
